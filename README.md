@@ -9,6 +9,7 @@ pip3 install requests
 ```
 python3 http.sys_check.py url.txt
 ```
+检测成功的url，会被默认保存在`result.txt`文件中。
 # 示例
 ```
 > python http.sys_check.py url.txt
