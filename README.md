@@ -19,6 +19,6 @@ python3 http.sys_check.py url.txt
 [-]  timeout https://www.xxx4.com/
 ```
 # 注意事项
-* url.txt中的格式为https://www.teamssix.com或http://www.teamssix.com
+* url.txt中的格式为`https://www.teamssix.com`或`http://www.teamssix.com`
 
 ![](https://teamssix.oss-cn-hangzhou.aliyuncs.com/TeamsSix_Subscription_Logo2.png)
